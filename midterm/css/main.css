@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+
+body {
+    align-items: center;
+}
+
+/*Content type 1 start*/
+
+.content-type1 {
+    display: flex;
+    justify-content: space-between;
+    width: 98%;
+    height: 50vh;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.texts3 {
+    width: 50%;
+    text-align: left;
+    padding-top: 19vh;
+    
+
+}
+
+.texts ul li {
+    margin-bottom: 5px;  
+}
+
+.texts ul li p {
+    font-size: 15px;
+    font-weight: 100;
+}
+.texts ul li h4 {
+    
+    font-size: 20px;
+    font-weight: 300;
+}
+.texts ul li a {
+    font-size: 15px;
+    font-weight: 300;
+    margin-right: 8px;
+    
+}
+
+
+.imgVimage {
+    background-color: aquamarine;
+    box-shadow: 1px 1px 5px;
+    
+}
+.imgVimage img {
+    width: auto;
+    height: 100%;
+    box-shadow: 1px 1px 5px;
+
+}
+
+
+
+
+
+/* Content type 1 end */
+.content-type2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50vh;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+.texts {
+    width: 50%;
+    text-align: center;
+    padding-top: 19vh;
+   
+
+}
+
+.texts ul li {
+    margin-bottom: 5px;  
+}
+
+.texts ul li p {
+    font-size: 15px;
+    font-weight: 100;
+}
+.texts ul li h4 {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.texts ul li a {
+    font-size: 15px;
+    font-weight: 300;
+    margin-right: 8px;
+}
+
+.imgVimage {
+    margin-right: 250px;
+    background-color: aquamarine;
+    box-shadow: 1px 1px 5px;
+    
+}
+.imgVimage img {
+    width: auto;
+    height: 100%;
+    box-shadow: 1px 1px 5px;
+    
+}
+
+
+
+
+
+footer {
+    width: 100%;
+    height: 20vh;
+    color: #000;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    padding: 5vh 0 5vh 0;
+    background-color: grey;
+    border-radius: 3px;
+}
+
+.footer-heading {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.footer-heading a {
+    color: #262626;
+    text-decoration: none;
+    font-weight: 100;
+    font-size: 13px;
+    margin-bottom: 2vh;
+}
+
+#aaaaa {
+    color: #fff;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    margin-right: 150px;
+}
+
+
